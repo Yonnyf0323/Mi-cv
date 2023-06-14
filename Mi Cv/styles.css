@@ -1,0 +1,26 @@
+*{
+    width: 100%vh;
+    height: 100%vh;
+    background:linear-gradient(to right, #980000, #1f2677);
+}
+p{
+    background-color: aliceblue;
+    font-size: x-large;
+    text-align: center;
+}
+img{height: 700px;
+    width: 3400;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1{
+    color: rgb(171, 145, 196);
+    text-decoration: none;
+    height: 70px;
+    width: 1200;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Roboto', 'Sans serif';
+}
